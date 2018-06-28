@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="copofi.testRun.testSuite">
+        <methods>
+          <include name="testCaseNo40"/>
+          <include name="setdriver"/>
+          <include name="testCaseNo17_n_testCaseNo30"/>
+          <include name="testCaseNo2"/>
+          <include name="openBrowser"/>
+          <include name="testCaseNo7"/>
+          <include name="testCaseNo4"/>
+          <include name="testCaseNo16"/>
+          <include name="testCaseNo3"/>
+          <include name="endtest"/>
+          <include name="testCaseNo76"/>
+          <include name="testCaseNo1_n_testCaseNo5"/>
+          <include name="testCaseNo41"/>
+          <include name="testCaseNo74"/>
+          <include name="testCaseNo28_n_testCaseNo29"/>
+        </methods>
+      </class> <!-- copofi.testRun.testSuite -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
